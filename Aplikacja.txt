@@ -1,3 +1,4 @@
 Logowanie do aplikacji:
 -użytkownik to adres mail w poprawnym formacie
 -haslo musi spelniac normy bezpieczenstwa i wygasa co 30 dni
+asdfasdf
