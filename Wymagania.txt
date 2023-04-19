@@ -7,3 +7,5 @@ public void logowanie() {
 asodufbuasbf
 asidfbiuasbf
 asogbuasuigb
+
+To jest linijka do wycofania
